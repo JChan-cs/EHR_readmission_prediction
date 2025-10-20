@@ -16,7 +16,7 @@
  Overview: Our dataset consists of 13,763 hospital admissions from 11,041 unique patients,
  with 2,379 admissions resulting in a 30-day readmission.
  
-Data Files :
+Data Files :\
   • train.csv, valid.csv, test.csv: Datasets with IDs, labels, etc.\
   • ehr_preprocessed_seq_by_day_cat_embedding.pkl: Preprocessed sequential EHR data.\
   • image_features.zip: Pre-extracted image features from a MoCo-CXR model.\
