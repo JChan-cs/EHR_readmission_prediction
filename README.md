@@ -20,7 +20,7 @@ Data Files :
   • train.csv, valid.csv, test.csv: Datasets with IDs, labels, etc.\
   • ehr_preprocessed_seq_by_day_cat_embedding.pkl: Preprocessed sequential EHR data.\
   • image_features.zip: Pre-extracted image features from a MoCo-CXR model.\
-  • notes.csv: Free-text discharge summaries.\
+  • notes.csv: Free-text discharge summaries.
   
  Evaluation Metric: AUROC to evaluate model performance.
 
