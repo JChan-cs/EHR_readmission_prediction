@@ -26,3 +26,7 @@ Data Files :
   • notes.csv: Free-text discharge summaries.
   
  Evaluation Metric: AUROC to evaluate model performance.
+
+ ## Related to
+ HKU STAT3612 Group Project
+ [https://www.kaggle.com/competitions/2025-fall-stat-3612-group-project]
