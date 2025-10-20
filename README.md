@@ -6,11 +6,14 @@
  data (ehr_preprocessed_seq_by_day_cat_embedding.pkl).
 
  ## Dataset Description
-  (1) Electronic Health Record Data (Tabular): Sourced from MIMIC-IV v1.0, this includes
+ (1) Electronic Health Record Data (Tabular): Sourced from MIMIC-IV v1.0, this includes
  demographics, comorbidities (ICD-10 codes), lab results, and medications.
+ 
  (2) Chest Radiographs (Imaging): Sourced from MIMIC-CXR-JPG v2.0.
+ 
  (3) Clinical Notes (Text): De-identified free-text notes from MIMIC-IV-Note.
- Overview Our dataset consists of 13,763 hospital admissions from 11,041 unique patients,
+ 
+ Overview: Our dataset consists of 13,763 hospital admissions from 11,041 unique patients,
  with 2,379 admissions resulting in a 30-day readmission.
  
 Data Files :
